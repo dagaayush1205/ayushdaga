@@ -6,7 +6,7 @@ import { createHtmlPlugin } from 'vite-plugin-html';
 
 // https://vitejs.dev/config/
 export default defineConfig({
-  base: 'https://dagaayush1205.github.io/ayushdaga/',
+  base: CONFIG.base || '/',
   plugins: [
     react(),
     createHtmlPlugin({
