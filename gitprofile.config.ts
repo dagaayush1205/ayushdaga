@@ -73,13 +73,13 @@ const CONFIG = {
     stackoverflow: '', // example: '1/jeff-atwood'
     skype: '',
     telegram: '',
-    website: 'https://www.arifszn.com',
+    website: 'https://ayushdaga-portfolio.vercel.app/',
     phone: '9811206735',
     email: 'dagaayush1205@gmail.com',
   },
   resume: {
     fileUrl:
-      'https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf', // Empty fileUrl will hide the `Download Resume` button.
+      'https://drive.google.com/drive/u/2/folders/1KkpxrgpdJ-TQ0AiLrqvTz6iuwNvKcSjA', // Empty fileUrl will hide the `Download Resume` button.
   },
   skills: [
     'Git',
